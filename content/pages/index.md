@@ -8,7 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >ahmad dzaky.
+    text: >
+    ahmad dzaky.
     actions:
       - label: Get started
         altText: ''
